@@ -1,0 +1,8 @@
+---
+daemon:
+  image: quay.io/kwiksand/paccoind:latest
+  ports:
+  - "9112:91112"
+  - "8112:8112"
+  volumes:
+  - /media/crypto/paccoin:/home/paccoin/.paccoin

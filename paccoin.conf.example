@@ -1,0 +1,14 @@
+#daemon=1
+server=1
+listen=1
+staking=0
+logtimestamps=1
+mnconflock=0
+enableaccounts=1
+
+rpcuser=PaccoinRPC
+rpcpassword=e990e4cbQQVi1TmfO1cfuXKTSKyTx2bw7211fCUdt3rukPu4lJo.6269e85c49feeea8c3587377
+rpcallowip=127.0.0.1
+rpcport=9112
+port=8112
+
